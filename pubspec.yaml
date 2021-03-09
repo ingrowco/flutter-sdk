@@ -1,8 +1,8 @@
 name: ingrow_client_flutter
-description: A Flutter package for InGrow.
-version: 0.0.1
-author:
-homepage:
+description: A Flutter package written in Dart to use ingrow dynamic event streaming platform.
+version: 1.0.0
+author: InGrow Team
+homepage: ingrow.co
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
